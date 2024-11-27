@@ -1,0 +1,33 @@
+body{ 
+    background-color:#0f0f0f;
+    font-family: "Playwrite GB S", serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 5000; 
+}
+button{
+    background-color: #696666;
+    font-family: "Playwrite GB S", serif;
+    color: white;
+
+}
+
+
+.passo {
+display: none;
+}
+
+.passo.ativo {
+display: block;
+}
+
+main{
+    max-width: 90%;
+    text-align: center;
+
+    
+}
+
